@@ -51,7 +51,10 @@ Required Python libraries: tkinter, pyttsx3, Pillow.
 
 STEPS
 
-cd tts-application
+cd Project
+
+cd tts
+
 
 
 Install dependencies:
