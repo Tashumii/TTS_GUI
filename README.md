@@ -42,14 +42,11 @@ Speech playback runs in a separate thread to ensure the GUI remains responsive.
 
 ## Installation
 ```bash
-Installation
-Follow these steps to set up and run the project:
-
-Prerequisites
+Installation:
 Python 3.x installed on your system.
 Required Python libraries: tkinter, pyttsx3, Pillow.
 
-STEPS
+STEPS:
 cd Project
 cd tts
 pip install pyttsx3 
