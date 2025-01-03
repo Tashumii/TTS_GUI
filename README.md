@@ -51,7 +51,7 @@ Required Python libraries: tkinter, pyttsx3, Pillow.
 
 STEPS
 
-eyy=cd Project
+cd Project
 
 cd tts
 
