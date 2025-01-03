@@ -41,7 +41,7 @@ Background Threading:
 Speech playback runs in a separate thread to ensure the GUI remains responsive.
 
 ## Installation
-
+```bash
 Installation
 Follow these steps to set up and run the project:
 
@@ -67,6 +67,7 @@ pip install pillow
 Run the application:
 
 python app.py
+```
 ## Usage
 
 
