@@ -50,22 +50,11 @@ Python 3.x installed on your system.
 Required Python libraries: tkinter, pyttsx3, Pillow.
 
 STEPS
-
 cd Project
-
 cd tts
-
-
-
-Install dependencies:
-
-
 pip install pyttsx3 
-
 pip install pillow
-
 Run the application:
-
 python app.py
 ```
 ## Usage
